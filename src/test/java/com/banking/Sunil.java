@@ -6,5 +6,6 @@ public class Sunil{
         int b;
 
         int c = a+b;
+        int b=a+b;
     }
 }
